@@ -1,19 +1,18 @@
 {
   "name": "formback",
   "version": "1.0.0",
+  "description": "astro horoscope backend",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "��#\u0000 \u0000a\u0000s\u0000t\u0000r\u0000o\u0000b\u0000c\u0000k\u0000\r\u0000 \u0000",
-  "keywords": [],
   "dependencies": {
     "@vitalets/google-translate-api": "^9.2.1",
     "cors": "^2.8.5",
-    "express": "^5.1.0",
-    "node-fetch": "^3.3.2"
+    "express": "^4.18.2",
+    "node-fetch": "^2.6.7"
   }
 }
